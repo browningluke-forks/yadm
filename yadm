@@ -39,7 +39,7 @@ YADM_ALT="alt"
 
 # these are the default paths relative to YADM_DATA
 YADM_REPO="repo.git"
-YADM_ARCHIVE="archive"
+YADM_ARCHIVE="../yadm-encrypt/archive"
 
 HOOK_COMMAND=""
 FULL_COMMAND=""
